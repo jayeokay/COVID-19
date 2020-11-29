@@ -1,0 +1,4 @@
+Initial_Disease_Severity,All patients (n = 904),Patients with confirmed COVID-19 (n = 341)
+ Moderate,813 (89.93),297 (87.10)
+ Severe,82 (9.07),39 (11.44)
+ Critical,9 (1.00),5 (1.47)

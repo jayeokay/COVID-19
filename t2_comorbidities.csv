@@ -1,0 +1,7 @@
+Comorbidities,No_Diabetes,Diabetes,P_Value
+ Hypertension,95 (32.53),30 (61.22),<0.001
+ Cardiovascular disease,39 (13.36),11 (22.45),0.124
+ Nervous system disease,19 (6.51),8 (16.33),0.039
+ Chronic kidney disease,19 (6.51),5 (10.20),0.363
+ Chronic lung disease,13 (4.45),2 (4.08),1.000
+ Tumor,10 (3.42),1 (2.04),0.714

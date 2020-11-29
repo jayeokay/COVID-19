@@ -1,0 +1,4 @@
+Common_Initial_Symptoms,No_Diabetes,Diabetes,P_Value
+ Fever (temperature ≥37.3°C),192 (65.75),24 (48.98),0.036
+ Cough,143 (48.97),27 (55.10),0.444
+ Fatigue,67 (22.95),10 (20.41),0.845
